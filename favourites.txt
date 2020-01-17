@@ -1,3 +1,4 @@
 Sheep
 Cat
 Dog
+Otter
